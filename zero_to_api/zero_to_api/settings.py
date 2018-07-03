@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'rest_auth',
 
     'cats',
+    'sportCars'
 ]
 
 MIDDLEWARE = [

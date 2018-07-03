@@ -20,4 +20,5 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^rest-auth/', include('rest_auth.urls')),
     url('api/v1/', include('cats.urls')),
+    url('api/v1/', include('sportCars.urls'))
 ]

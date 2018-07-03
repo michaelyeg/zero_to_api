@@ -13,3 +13,5 @@ __pycache__/
 #db
 
 *db.sqlite3
+.idea
+/zero_to_api/sportCars/migrations/
